@@ -1,1 +1,27 @@
-Hola inge un puntito.
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+Hola a todos. muy buien 
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hola a todos, hello gang :)
+>>>>>>> Stashed changes
+=======
+Hola a todos. muy bieeeennnn
+
+
+pruebaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> ac8cc0ed7677c8e95089436c2c1a51fe33b5bd2b
