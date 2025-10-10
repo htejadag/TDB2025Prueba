@@ -10,7 +10,7 @@ De repente, una voz suave y profunda emergió del árbol. "Has llegado", dijo la
 
 Elena miró al roble, incrédula. "¿Quién eres?" preguntó.
 Ricardo Daniel Salazar Rengifo
-Jim Maldonado
+
 Lewis Diaz No estuvo aquí =)
 
 "Soy el espíritu del bosque, el guardián de todo lo que vive aquí. Los árboles, los animales, el aire y el agua... todo está conectado. Y tú, pequeña, has escuchado mi llamada. Has sido elegida."
@@ -22,22 +22,11 @@ Lewis Diaz No estuvo aquí =)
 Elena sintió una paz profunda al escuchar esas palabras. Sabía que su vida había cambiado para siempre. A partir de ese momento, ella se dedicó a enseñar a los demás sobre el respeto hacia el bosque y la naturaleza, compartiendo con todos la sabiduría que el viejo roble le había transmitido.
 
 <<<<<<< HEAD
-<<<<<<< Updated upstream
+Manuel chirinos BArbaranss
+Y así, Elena se convirtió en una leyenda, no solo por su valentía, sino por su conexión con la tierra, siendo siempre un puente entre el mundo de los humanos y el misterioso bosque.
 =======
-
-Y así, Elena se convirtió en una leyenda, no solo por su valentía, sino por su conexión con la tierra, siendo siempre un puente entre el mundo de los humanos y el misterioso bosque.
-// RICRA FIGUEROA PEDRO GIOVANNI
-Fin.
-
-Manuel chirinos
-Y así, Elena se convirtió en una leyenda, no solo por su valentía, sino por su conexión con la tierra, siendo siempre un puente entre el mundo de los humanos y el misterioso bosque.
-
->>>>>>> 9a6b48ce07c399d80b2913a9d20af3267bf4c873
 Y así, Elena se convirtió en una leyenda, no solo por su valentía, sino por su conexión con la tierra, siendo siempre un puente entre el mundo de los humanos (Patrick Garcia )y el misterioso bosque.
-=======
-Gian Marco Sanchez Peña
-Y así, Elena se convirtió en una leyenda, no solo por su valentía, sino por su conexión con la tierra, siendo siempre un puente entre el mundo de los humanos y el misterioso bosque. Jordin Trujillo
->>>>>>> Stashed changes
+>>>>>>> 3445d2a54f33e2a2c1bc2dc2ed714b220bd5b82a
 
 Fin.
 
@@ -48,7 +37,6 @@ Fin.
 
 
 
-Jimmy Silva
 
 
 
@@ -75,4 +63,4 @@ Jimmy Silva
 
 
 
->>>>>>> d13eea008921acfc88280aea0fcddac6ed0f531e
+
