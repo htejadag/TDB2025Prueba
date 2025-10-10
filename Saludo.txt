@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 Hola a todos. muy buien 
+=======
+
+
+
+
+Hola a todos, hello gang :)
+>>>>>>> Stashed changes
