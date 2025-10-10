@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+Hola a todos, soy el Ing. Tejada
+
+probando
+=======
 Hola a todos. muy bieeeennnn
 
 
 Solo una pruebita mas ing
+>>>>>>> ecb843bb24d9d377ec7e6a3e7d676b3711258c38
